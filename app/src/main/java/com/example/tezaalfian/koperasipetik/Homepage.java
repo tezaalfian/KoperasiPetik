@@ -10,8 +10,7 @@ public class Homepage extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_homepage);
-
-        (Button) btninput = findViewById(R.id.btnInput);
+        
         Button btnhistory = findViewById(R.id.btnhistory);
     }
 }
