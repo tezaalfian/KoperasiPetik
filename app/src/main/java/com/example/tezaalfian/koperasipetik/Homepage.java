@@ -12,5 +12,6 @@ public class Homepage extends AppCompatActivity {
         setContentView(R.layout.layout_homepage);
 
         (Button) btninput = findViewById(R.id.btnInput);
+        Button btnhistory = findViewById(R.id.btnhistory);
     }
 }
